@@ -6,7 +6,6 @@
 </head>
 <body>
 
-    <h1>Your Name</h1>
     <p>Email: valezajambi@gmail.com</p>
     <p>Phone: 09458521158</p>
     <p>Address: Bacoor, Cavite, Philippines</p>
